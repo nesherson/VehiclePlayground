@@ -1,3 +1,5 @@
 # VehiclePlayground
 
-Developed with Unreal Engine 5
+An Unreal Engine project for exercising vehicle logic using chaos vehicles system.
+
+Made with UE5.
